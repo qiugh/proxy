@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/qiugh/proxy/issues"
   },
-  "homepage": "https://github.com/qiugh/proxy#readme"
+  "homepage": "https://github.com/qiugh/proxy#readme",
+  "dependencies": {
+    "crawler": "^1.1.2",
+    "moment": "^2.22.1",
+    "node-schedule": "^1.3.0"
+  }
 }
